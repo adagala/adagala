@@ -2,7 +2,7 @@
 
 ---
 
-A Software Developer specializing in TypeScript, Firebase & Angular. I do love creating hybrid mobile apps using Ionic Framework. Professional experience with the technologies listed in the **toolbox** below.
+A Software Developer specializing in TypeScript, Firebase, React & Angular. I do love creating hybrid mobile apps using Ionic Framework. Professional experience with the technologies listed in the **toolbox** below.
 
 
 ---
