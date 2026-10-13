@@ -6,7 +6,7 @@ I build fast, modern web apps with **TypeScript, React & Next.js**, from client 
 
 - 🔭 Recently shipped: websites and web apps for organisations across Kenya ([KEHIA](https://github.com/adagala/kehia), law firms and more)
 - 💱 Side project: [Exchange Rates Kenya](https://github.com/adagala/exchangerateskenya), daily rates of popular currencies against the Kenya shilling
-- 🌐 Portfolio: [adagalahenry.com](https://adagalahenry.com)
+- 🌐 Portfolio: [adagala.com](https://adagala.com)
 - 📫 Reach me: [adagalahenry@gmail.com](mailto:adagalahenry@gmail.com) · [X / Twitter @adagalahenry](https://x.com/adagalahenry)
 
 ---
